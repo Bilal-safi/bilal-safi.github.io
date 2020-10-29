@@ -1,0 +1,124 @@
+body{
+    font-family: Arial;
+    margin: 0px;
+
+}
+
+
+
+.header {
+    text-align: center;
+}
+
+.secondary-block .content
+{
+    background-color:teal;
+    color:powderblue;
+}
+.content .regle{
+    padding-left: 400px;
+    Padding-right: 400px;
+}
+
+nav{
+    display: flex;
+    height: 70px;
+}
+.secondary-block{
+    color: rgb(4, 117, 186);
+    background-color: teal;
+    color:powderblue;
+  
+}
+
+a{
+    color: powderblue;
+    background-color: teal;
+} 
+nav h2{
+    margin: 0;
+    padding: 20px 0px 20px 15px;
+}
+nav ul{
+    display: flex;
+    margin: 0px;
+    padding: 24px;
+    list-style: none;
+}
+nav li {
+    margin-left: 15px;
+}
+header{
+    text-align: center;
+  
+}
+.content h4{
+    text-align: center;
+}
+
+.content  {
+    background-color: teal;
+    margin-left: 120px;
+    margin-right: 120px;
+    color: powderblue;
+}
+
+.content h3 {
+    text-align: center;
+}
+header h2{
+    color: rgb(4, 117, 186);
+}
+header img {
+    height:150px;
+    border-radius: 75px;
+    box-shadow:3px 3px 6px rgb(170, 170, 170);
+}
+section{
+    padding: 40px;
+}
+#xp ul{
+   list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+#xp li{
+    margin-bottom: 10px;
+}
+#xp aside{
+    float: right;
+}
+#education ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+#education li {
+    margin-bottom: 12px;
+}
+#education aside{
+   float: right; 
+}
+#centre aside{
+    float: right; 
+}
+#centre ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+footer{
+    padding: 40px;
+    text-align: center;
+}
+.link ul{
+    list-style: none;
+}
+
+
+.link {
+    margin-bottom: 25px;
+    display: inline-block;
+    width: 390px;
+}
